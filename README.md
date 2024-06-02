@@ -10,7 +10,7 @@ Identify key trends and patterns in user behavior and ride patterns.
 Provide data-driven recommendations to increase annual memberships.
 
 # Data Sources
-The analysis utilizes historical trip data provided by Motivate International Inc. under a public license. This dataset includes trip details for Cyclistic bike-share users from Q1 2019 and Q1 2020.
+The analysis utilizes historical trip data provided by Motivate International Inc. under a public license. This dataset includes trip details for Cyclistic bike-share users from Q1 2019 and Q1 2020. Data can be downloaded from here. https://divvy-tripdata.s3.amazonaws.com/index.html
 
 # Methodology
 The analysis follows a structured approach encompassing the following steps:
