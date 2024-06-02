@@ -42,7 +42,7 @@ Based on the analysis, the following recommendations are made to increase annual
 This analysis provides valuable insights into the usage patterns of Cyclistic bike-share users, offering a clear path forward to enhance marketing strategies and boost annual memberships. The findings and recommendations presented here will help Cyclistic achieve its goal of maximizing profitability and ensuring long-term growth.
 
 # How to Use This Repository
-**Clone the Repository: git clone https://github.com/yourusername/Cyclistic-Bike-Share-Analysis.git**
+**Clone the Repository: git clone https://github.com/aniketchhaikuria/Cyclistic-Bike-Share-Analysis.git**
 **Explore the Analysis:** Review the SQL queries and R scripts for detailed data preparation, analysis, and visualization steps.
 **View the Visualizations:** Check the '**visualizations**' folder for all the created plots and graphs.
 **Read the Report:** Refer to the final report for a comprehensive summary of the analysis and recommendations.
