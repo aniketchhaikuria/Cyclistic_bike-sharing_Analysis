@@ -28,7 +28,7 @@ The analysis follows a structured approach encompassing the following steps:
 The repository includes several visualizations created using ggplot2 to illustrate the analysis:
 1. **Comparison of Ride Frequency between Annual Members and Casual Riders**
 2. **Comparison of Ride Duration between Annual Members and Casual Riders**
-3. **Average Duration of Rides by Weekdays
+3. **Average Duration of Rides by Weekdays**
 4. **Number of Rides by Weekday**
 
 # Recommendations
