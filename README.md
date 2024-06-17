@@ -43,6 +43,8 @@ This analysis provides valuable insights into the usage patterns of Cyclistic bi
 
 # How to Use This Repository
 **Clone the Repository: git clone https://github.com/aniketchhaikuria/Cyclistic_bike-sharing_Analysis**
+
 **Explore the Analysis:** Review the SQL queries and R scripts for detailed data preparation, analysis, and visualization steps.
-**View the Visualizations:** Check the '**visualizations**' folder for all the created plots and graphs.
+
+
 **Read the Report:** Refer to the final report for a comprehensive summary of the analysis and recommendations.
