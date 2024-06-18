@@ -27,9 +27,20 @@ The analysis follows a structured approach encompassing the following steps:
 # Visualizations
 The repository includes several visualizations created using ggplot2 to illustrate the analysis:
 1. **Comparison of Ride Frequency between Annual Members and Casual Riders**
+
+![Comparison_of_Ride_Frequency_between_Annual_Members_and_Casual_Riders](https://github.com/aniketchhaikuria/Cyclistic_bike-sharing_Analysis/assets/171453889/2d005a09-25e7-40ea-9f62-d6a865baa7dd)
+
 2. **Comparison of Ride Duration between Annual Members and Casual Riders**
+
+![Comparison_of_Ride_Duration_between_Annual_Members_and_Casual_Riders](https://github.com/aniketchhaikuria/Cyclistic_bike-sharing_Analysis/assets/171453889/38ebcc79-88b5-4951-8b70-33046c8e5b8f)
+
 3. **Average Duration of Rides by Weekdays**
+
+![Average_Duration_of_Rides_by_Weekday](https://github.com/aniketchhaikuria/Cyclistic_bike-sharing_Analysis/assets/171453889/57868ab9-334c-48a5-beae-9679022ff29d)
+
 4. **Number of Rides by Weekday**
+
+![Number_of_Rides_by_Weekday](https://github.com/aniketchhaikuria/Cyclistic_bike-sharing_Analysis/assets/171453889/2a54a23f-ca44-4ac2-a6d5-6064dcd5a30b)
 
 # Recommendations
 Based on the analysis, the following recommendations are made to increase annual memberships:
